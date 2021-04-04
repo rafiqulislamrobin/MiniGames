@@ -1,0 +1,38 @@
+D:\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.exe
+D:\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.deps.json
+D:\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.runtimeconfig.json
+D:\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.runtimeconfig.dev.json
+D:\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.dll
+D:\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\ref\Battle Ship.dll
+D:\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.pdb
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.csprojAssemblyReference.cache
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.csproj.GenerateResource.cache
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.GeneratedMSBuildEditorConfig.editorconfig
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.AssemblyInfoInputs.cache
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.AssemblyInfo.cs
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.csproj.CoreCompileInputs.cache
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.dll
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\ref\Battle Ship.dll
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.pdb
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.genruntimeconfig.cache
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle_Ship.Properties.Resources.resources
+D:\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle_Ship.Game.resources
+D:\game\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.exe
+D:\game\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.deps.json
+D:\game\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.runtimeconfig.json
+D:\game\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.runtimeconfig.dev.json
+D:\game\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.dll
+D:\game\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\ref\Battle Ship.dll
+D:\game\BattleShip\Battle Ship\Battle Ship\bin\Debug\net5.0-windows\Battle Ship.pdb
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.csprojAssemblyReference.cache
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle_Ship.Game.resources
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle_Ship.Properties.Resources.resources
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.csproj.GenerateResource.cache
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.GeneratedMSBuildEditorConfig.editorconfig
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.AssemblyInfoInputs.cache
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.AssemblyInfo.cs
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.csproj.CoreCompileInputs.cache
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.dll
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\ref\Battle Ship.dll
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.pdb
+D:\game\BattleShip\Battle Ship\Battle Ship\obj\Debug\net5.0-windows\Battle Ship.genruntimeconfig.cache
