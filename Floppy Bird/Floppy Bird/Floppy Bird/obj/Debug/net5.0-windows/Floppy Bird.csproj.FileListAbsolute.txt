@@ -1,0 +1,19 @@
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\bin\Debug\net5.0-windows\Floppy Bird.exe
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\bin\Debug\net5.0-windows\Floppy Bird.deps.json
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\bin\Debug\net5.0-windows\Floppy Bird.runtimeconfig.json
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\bin\Debug\net5.0-windows\Floppy Bird.runtimeconfig.dev.json
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\bin\Debug\net5.0-windows\Floppy Bird.dll
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\bin\Debug\net5.0-windows\ref\Floppy Bird.dll
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\bin\Debug\net5.0-windows\Floppy Bird.pdb
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.csprojAssemblyReference.cache
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy_Bird.Form1.resources
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.csproj.GenerateResource.cache
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.GeneratedMSBuildEditorConfig.editorconfig
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.AssemblyInfoInputs.cache
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.AssemblyInfo.cs
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.csproj.CoreCompileInputs.cache
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.dll
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\ref\Floppy Bird.dll
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.pdb
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy Bird.genruntimeconfig.cache
+D:\game\Floppy Bird\Floppy Bird\Floppy Bird\obj\Debug\net5.0-windows\Floppy_Bird.Properties.Resources.resources
