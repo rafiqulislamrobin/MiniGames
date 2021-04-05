@@ -104,18 +104,31 @@ namespace Floppy_Bird
         {
             gameTimer.Stop();
             scoreTxt.Text += "   Game Over!!!";
-        } 
+        }
 
 
-       
+        int floppyBirdX, floppyBirdY;
 
         private void Start(object sender, ToolStripItemClickedEventArgs e)
         {
-            Process.Start(Application.ExecutablePath);
+            //    Process.Start(Application.ExecutablePath);
 
-            // Closes the current process
-            Environment.Exit(0);
-            
+            //    // Closes the current process
+            //    Environment.Exit(0);
+            FloppyBird.Left = 12;
+            FloppyBird.Top = 326;
+            score = 0;
+            pipeTop1.Left = 473;
+            pipeTop1.Top = 1;
+            pipeBottom1.Left = 728;
+            pipeBottom1.Top = 342;  //x=left,y=top
+            pipeBottom2.Left = 1303;
+            pipeBottom2.Top = 342; 
+            pipeTop2.Left = 1103;
+            pipeTop2.Top = -8; ;
+            GameStart();
+
+
         }
     }
 }
