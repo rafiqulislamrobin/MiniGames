@@ -1,2 +1,2 @@
-# GamesMadeByMe
+# MiniGames
 Please check other branches.
